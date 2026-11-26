@@ -34,7 +34,6 @@ Con l'indirizzo pubblico definitivo, incollarlo in un generatore di QR code (sce
 I dati visibili sono HTML semplice in `index.html`. La scheda contatto è l'array `vcard` nel blocco `<script>` in fondo al file (vCard 3.0; virgole e punti e virgola vanno preceduti da una barra rovesciata).
 
 ### Da fare
-- Aggiungere un indirizzo email ordinario (non PEC): vedere il commento `TODO` nella sezione Contact e aggiungere una riga `EMAIL;TYPE=WORK:` alla vCard.
 - Aggiungere il logo (`logo.png`), non ancora inserito; per ora la pagina usa un wordmark testuale.
 - Aggiornare i dati del Registro Imprese (REA, PEC, ecc.) con una visura più recente e la data nel piè di pagina.
 - Il numero di iscrizione al ruolo agenti non è nella visura e non viene mostrato.
