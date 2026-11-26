@@ -75,12 +75,11 @@
 
   <section aria-labelledby="h-contact">
     <h2 id="h-contact">Contact</h2>
-<dl>
-      <div class="row"><dt>Email</dt><dd><a href="mailto:info@andreaoliva.eu">info@andreaoliva.eu</a></dd></div>
     <dl>
       <div class="row"><dt>Contact person</dt><dd>Andrea Oliva (Sole Director)</dd></div>
       <div class="row"><dt>Phone</dt><dd><a href="tel:+390403229321">+39 0403229321</a></dd></div>
       <div class="row"><dt>WhatsApp</dt><dd><a href="https://wa.me/393914270138" target="_blank" rel="noopener">+39 3914270138</a></dd></div>
+      <div class="row"><dt>Email</dt><dd><a href="mailto:info@andreaoliva.eu">info@andreaoliva.eu</a></dd></div>
       <div class="row"><dt>Website</dt><dd><a href="https://www.andreaoliva.eu/" target="_blank" rel="noopener">https://www.andreaoliva.eu/</a></dd></div>
       <div class="row"><dt>Certified email (PEC)</dt><dd><a href="mailto:andreaoliva@legalmail.it">andreaoliva@legalmail.it</a></dd></div>
     </dl>
