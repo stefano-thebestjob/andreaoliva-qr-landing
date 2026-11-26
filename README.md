@@ -15,7 +15,6 @@ Once the final public URL is known, paste it into any QR code generator (use a s
 Visible data is plain HTML in `index.html`. The contact card is the `vcard` array in the `<script>` block at the bottom of the file (vCard 3.0; escape commas and semicolons with a backslash).
 
 ### TODO
-- Add a regular (non-PEC) email address: see the `TODO` comment in the Contact section and add an `EMAIL;TYPE=WORK:` line to the vCard.
 - Add the logo (`logo.png`) – not added yet; the page currently uses a text wordmark.
 - Refresh the Business Register data (REA, PEC, etc.) when a newer extract is available; update the date in the footer.
 - The professional register registration number is not in the extract and is not shown.
