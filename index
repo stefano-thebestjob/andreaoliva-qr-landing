@@ -75,7 +75,8 @@
 
   <section aria-labelledby="h-contact">
     <h2 id="h-contact">Contact</h2>
-    <!-- TODO: add regular email -->
+<dl>
+      <div class="row"><dt>Email</dt><dd><a href="mailto:info@andreaoliva.eu">info@andreaoliva.eu</a></dd></div>
     <dl>
       <div class="row"><dt>Contact person</dt><dd>Andrea Oliva (Sole Director)</dd></div>
       <div class="row"><dt>Phone</dt><dd><a href="tel:+390403229321">+39 0403229321</a></dd></div>
@@ -104,6 +105,7 @@
     "TITLE:Sole Director",
     "TEL;TYPE=WORK,VOICE:+39 0403229321",
     "TEL;TYPE=CELL,VOICE:+39 3914270138",
+    "EMAIL;TYPE=WORK,INTERNET:info@andreaoliva.eu",
     "ADR;TYPE=WORK:;;Via di Cavana 15;Trieste;TS;34124;Italy",
     "URL:https://www.andreaoliva.eu/",
     "NOTE:REA TS-130420 - VAT 01177510326 - PEC andreaoliva@legalmail.it - Mobile is also on WhatsApp",
